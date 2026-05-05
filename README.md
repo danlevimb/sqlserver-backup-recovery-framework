@@ -4,7 +4,7 @@
 
 <p align="center">
   <h1>SQL Server Recovery & Validation Framework</h1><br/>
-  Deterministic recovery for real-world data incidents
+  Production-oriented Backup & Recovery framework for SQL Server environments.
 </p>
 
 ---
